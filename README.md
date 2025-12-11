@@ -1,38 +1,47 @@
-Amazon Clone – HTML & CSS (Beginner Project)
+# Amazon Clone – HTML & CSS (Beginner Project)
 
 A simple Amazon homepage clone created using only HTML and CSS.
 This project was built as a beginner-friendly practice to learn the fundamentals of web design, layout structure, and responsive styling.
 
-🚀 Project Overview
+---
+
+##🚀 Project Overview
 
 This project replicates the UI of Amazon’s homepage, including:
 
-Header & Navigation Bar
+- Header & Navigation Bar
 
-Search Bar
+- Search Bar
 
-Hero Section
+- Hero Section
 
-Product Boxes / Cards
+- Product Boxes / Cards
 
-Footer Section
+- Footer Section
 
 It is not a functional e-commerce site, but a static front-end layout created to practice HTML + CSS skills.
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 Technology	Purpose
 HTML5	Page structure
 CSS3	Styling & layout
 Flexbox	Alignment and responsiveness
 Basic UI Components	Navigation, footer, cards, grid
-📂 Project Structure
+
+---
+
+## 📂 Project Structure
 amazon-clone/
 │── index.html
 │── style.css
 │── /images
 │── README.md
 
-💡 Features
+---
+
+##💡 Features
 
 ✔ Amazon-like layout
 ✔ Hover effects
@@ -40,12 +49,13 @@ amazon-clone/
 ✔ Stylish header/navigation
 ✔ Fully responsive (if your version includes responsiveness)
 
+---
+
 🔧 How to Run the Project
 
 Download or clone the repository:
 
 git clone https://github.com/your-username/amazon-clone.git
-
 
 Open the project folder.
 
@@ -59,7 +69,9 @@ OR open using VS Code Live Server
 
 No installation required.
 
-🎯 Learning Goals
+---
+
+## 🎯 Learning Goals
 
 This project helped me practice:
 
@@ -73,7 +85,9 @@ Creating reusable UI components
 
 Improving front-end workflow
 
-📌 Future Improvements
+---
+
+## 📌 Future Improvements
 
 Make the layout fully responsive
 
@@ -83,6 +97,8 @@ Add product slider
 
 Create a functional shopping cart (future project)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork the project and submit improvements.
+
+---
