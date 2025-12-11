@@ -41,7 +41,7 @@ amazon-clone/
 
 ---
 
-##💡 Features
+## 💡 Features
 
 ✔ Amazon-like layout
 ✔ Hover effects
