@@ -73,6 +73,16 @@ Creating reusable UI components
 
 Improving front-end workflow
 
+📌 Future Improvements
+
+Make the layout fully responsive
+
+Add JavaScript for interactivity
+
+Add product slider
+
+Create a functional shopping cart (future project)
+
 🤝 Contributing
 
 Feel free to fork the project and submit improvements.
