@@ -5,7 +5,7 @@ This project was built as a beginner-friendly practice to learn the fundamentals
 
 ---
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 This project replicates the UI of Amazon’s homepage, including:
 
